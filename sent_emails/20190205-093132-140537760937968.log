@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: will@vincetn.com
+Date: Tue, 05 Feb 2019 09:31:32 -0000
+Message-ID: <154935909298.25583.11418597906703509693@KoTputer>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/users/reset/Mw/53l-fb98442f81ed85aa32f1/
+
+Your username, in case you've forgotten: mariola
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
