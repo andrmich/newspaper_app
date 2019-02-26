@@ -6,9 +6,16 @@
 
 {% block content %}
 <h2>Sign Up</h2>
+    <p>After signing up you can immediately log in.</p>
 <form method="post">
   {% csrf_token %}
   {{ form|crispy }}
+
+
 <button class="btn btn-info" type="submit">Sign Up</button>
+
+
 </form>
+
+
 {% endblock content %}
